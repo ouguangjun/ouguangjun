@@ -6,7 +6,7 @@
 ### About My Github
 
 ![](https://komarev.com/ghpvc/?username=ouguangjun&color=green)
-⚡ My homepage ![ouguangjun.github.io](https://ouguangjun.github.io)
+⚡ My homepage : https://ouguangjun.github.io
 
 
 <!--
